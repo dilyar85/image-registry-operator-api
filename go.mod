@@ -1,4 +1,4 @@
-module github.com/vmware-tanzu/image-registry-operator-api
+module github.com/dilyar85/image-registry-operator-api
 
 go 1.21
 
